@@ -1,7 +1,9 @@
 VANS
 ====
+VHA Innovation ID # 734
 
-Enable Schedulers to Preview, Edit and Send Appointment Letters Electronically - Innovation ID # 734
+Enable Schedulers to Preview, Edit and Send Appointment Letters Electronically
+
 Purpose:
 To develop a VistA software package that enables Medical Support Assistants to send appointment letters and other documents.
 
